@@ -5,3 +5,6 @@
 .env.*
 **/docker/mysql/data/
 **/*.sock
+
+# MongoDB runtime data
+product-service1/data/
